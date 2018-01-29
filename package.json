@@ -1,0 +1,30 @@
+{
+  "name": "currentmail",
+  "version": "1.0.0",
+  "description": "Beautiful little library to take out current mail from the thead of mails",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juggernaut451/currentMail.git"
+  },
+  "author": "Ashutosh Kumar Singh <singhjug1994@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eol": "^0.9.1",
+    "lodash": "^4.17.4"
+  },
+  "bugs": {
+    "url": "https://github.com/juggernaut451/currentMail/issues"
+  },
+  "homepage": "https://github.com/juggernaut451/currentMail#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "currentMail",
+    "thread",
+    "mailing-list",
+    "mail"
+  ]
+}
